@@ -1,0 +1,9 @@
+tensorflow==2.18.0
+tensorflowjs==4.22.0
+matplotlib==3.10.0
+pandas==2.2.2
+numpy==2.0.2
+scikit-learn==1.6.1
+albumentations==2.0.8
+opencv-python==4.11.0.86
+kaggle==1.7.4.5
